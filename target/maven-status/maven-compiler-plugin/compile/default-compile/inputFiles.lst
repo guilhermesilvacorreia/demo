@@ -1,0 +1,15 @@
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\model\BlockEvent.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\model\Board.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\model\CardMovementHistory.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\model\Card.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\dao\BoardDAO.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\config\DatabaseConnection.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\dao\ColumnDAO.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\service\ReportService.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\dao\CardDAO.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\dao\CardMovementHistoryDAO.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\App.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\dao\BaseDAO.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\dao\BlockEventDAO.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\model\ColumnType.java
+D:\EstudoDeCodigo\Bootcamp\Board\demo\src\main\java\com\example\taskboard\model\BoardColumn.java

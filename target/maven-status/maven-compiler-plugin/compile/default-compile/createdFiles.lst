@@ -1,0 +1,16 @@
+com\example\taskboard\dao\CardMovementHistoryDAO.class
+com\example\taskboard\App.class
+com\example\taskboard\dao\BaseDAO.class
+com\example\taskboard\model\Card.class
+com\example\taskboard\dao\BlockEventDAO.class
+com\example\taskboard\config\DatabaseConnection.class
+com\example\taskboard\model\CardMovementHistory.class
+com\example\taskboard\model\BoardColumn.class
+com\example\taskboard\dao\BoardDAO.class
+com\example\taskboard\model\BlockEvent.class
+com\example\taskboard\dao\CardDAO.class
+com\example\taskboard\model\ColumnType.class
+com\example\taskboard\model\BlockEvent$EventType.class
+com\example\taskboard\model\Board.class
+com\example\taskboard\dao\ColumnDAO.class
+com\example\taskboard\service\ReportService.class
